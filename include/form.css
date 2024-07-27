@@ -18,7 +18,7 @@ body {
 }
 
 .logo {
-    background-image: url('../static/halie-west.jpg');
+    background-image: url('halie-west.jpg');
     background-size: cover;
     height: 100vh;
     width: 30vw;
